@@ -129,7 +129,7 @@ See [Basic Concepts](docs/content/basic-concepts.md) for more details about the 
 
 FeatHub supports the following compute engines to execute feature ETL pipeline:
 - [Apache Flink 1.16](docs/content/engines/flink.md)
-- [Aapche Spark 3.3](docs/content/engines/spark.md)
+- [Apache Spark 3.3](docs/content/engines/spark.md)
 - [Local Processor](docs/content/engines/local.md)
 
 ## FeatHub SDK Highlights
